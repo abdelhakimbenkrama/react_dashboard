@@ -21,5 +21,6 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-left: 1px solid #ffaa00;
 `;
 export default DataDisplayer;
